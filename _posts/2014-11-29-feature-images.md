@@ -10,3 +10,16 @@ Type math within a sentence $$2x^2 + x + c$$ to display inline
 $$
   \bar{y} = {1 \over n} \sum_{i = 1}^{n}y_i
 $$
+
+| Header1 | Header2 | Header3 |
+|:--------|:-------:|--------:|
+| cell1   | cell2   | cell3   |
+| cell4   | cell5   | cell6   |
+|----
+| cell1   | cell2   | cell3   |
+| cell4   | cell5   | cell6   |
+|=====
+| Foot1   | Foot2   | Foot3
+{: rules="groups"}
+
+

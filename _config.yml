@@ -5,7 +5,7 @@ url: "https://ilbaleto.github.io"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: hackgem's Blog
+  title: mkkim's Blog
   avatar: assets/img/avataaars.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
@@ -29,7 +29,7 @@ theme_settings:
   facebook:
   flickr:
   gitlab:
-  github: "rohanchandra/type-theme"
+  github: "ilbaleto/blog"
   gitter:
   google_plus:
   instagram:
