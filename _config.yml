@@ -13,7 +13,7 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <h3>옆에 위인의 사진이 있다고 아무말이나 믿지 말라.</h3>
+     <h2>옆에 위인의 사진이 있다고 아무말이나 믿지 말라.</h2>
 
      <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
   header_text_feature_image:
@@ -48,7 +48,7 @@ theme_settings:
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
   disqus_shortname:
   katex: true # Enable if using math markup
-  search: false # Enable the search feature
+  search: true # Enable the search feature
 
   # Localization strings
   str_follow_on: "Follow on"
