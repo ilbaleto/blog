@@ -15,7 +15,7 @@ theme_settings:
   header_text: >
      <h3>옆에 위인의 사진이 있다고 아무말이나 믿지 말라.</h3>
 
-     <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
+     <p>Jekyll로 만드는 사이트.</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
@@ -46,7 +46,7 @@ theme_settings:
 
   # Scripts
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
-  disqus_shortname:
+  disqus_shortname: nobread
   katex: true # Enable if using math markup
   search: true # Enable the search feature
 
